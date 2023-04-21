@@ -1,7 +1,5 @@
 const menuBtn = document.querySelector('.openNav');
 const closeBtn = document.querySelector('.menu-list');
-const portfolioLink = document.querySelector('.portfolio-link');
-const aboutLink = document.querySelector('.about-link');
 const contactLink = document.querySelector('.contact-link');
 
 menuBtn.addEventListener('click', (e) => {
